@@ -2,8 +2,8 @@
 name: AutoBook Microsoft office secret
 
 on: 
-  release:
-    types: [published]
+#  release:
+#    types: [published]
   push:
     tags:
     - 'v*'
